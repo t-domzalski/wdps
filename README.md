@@ -26,5 +26,5 @@ Wykład | slajdy | pdf
 07 - Spostrzeganie siebie | [slajdy](07-spostrzeganie_siebie.html) | [pdf](07-spostrzeganie_siebie_handout.pdf)
 08 - Podstawy psychologii międzykulturowej | [slajdy](08-miedzykulturowa.html) | [pdf](08-miedzykulturowa_handout.pdf)
 09 - Teoria ewolucji [slajdy](09-ewolucja.html) | pdf
-10 - Agresja i prospołeczność | pdf | slajdy
+10 - Agresja i prospołeczność | [slajdy](https://github.com/k-basinski/wdps/blob/master/10-agresja.pdf)
 
