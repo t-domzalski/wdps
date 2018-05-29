@@ -25,6 +25,6 @@ Wykład | slajdy | pdf
 06 - Spostrzeganie innych ludzi | [slajdy](06-spostrzeganie_innych.html) | [pdf](06-spostrzeganie_innych_handout.pdf)
 07 - Spostrzeganie siebie | [slajdy](07-spostrzeganie_siebie.html) | [pdf](07-spostrzeganie_siebie_handout.pdf)
 08 - Podstawy psychologii międzykulturowej | [slajdy](08-miedzykulturowa.html) | [pdf](08-miedzykulturowa_handout.pdf)
-09 - Prospołeczność | pdf | slajdy
-10 - Agresja | pdf | slajdy
+09 - Teoria ewolucji [slajdy](09-ewolucja.html) | pdf
+10 - Agresja i prospołeczność | pdf | slajdy
 

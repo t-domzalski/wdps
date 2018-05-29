@@ -1,0 +1,13 @@
+---
+title: "Wprowadzenie do psychologii społecznej - 10 - Agresja i prospołeczność"
+author: "Krzysztof Basiński"
+output:
+  revealjs::revealjs_presentation:
+    theme: serif
+    center: true
+    incremental: true
+    self_contained: false
+    lib_dir: reveal_libs
+    css: reveal_libs/custom_style.css
+---
+
